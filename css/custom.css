@@ -1,0 +1,7 @@
+figure.center {
+    text-align: center;
+}
+
+figure.center img {
+    margin: 0 auto;
+}
